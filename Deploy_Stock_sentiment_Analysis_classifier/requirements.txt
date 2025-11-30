@@ -1,0 +1,11 @@
+python-dotenv
+langchain-community
+pypdf
+bs4  #BeautifulSoup
+langchain-text-splitters
+transformers
+pydantic
+torch
+fastapi
+uvicorn
+streamlit
